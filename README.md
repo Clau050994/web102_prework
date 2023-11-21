@@ -1,8 +1,8 @@
-# WEB102 Prework - *Coral Compass Crowdfunding*
+# WEB102 Prework - *VoyageQuest Gaming*
 
 Submitted by: **Claudia Varona Perez **
 
-**Coral Compass Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded. 
+*VoyageQuest Gaming* is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded. 
 
 Time spent: **10** hours spent in total
 
